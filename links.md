@@ -25,3 +25,17 @@
 | Immieats              | https://immieats.com                       | An instant-ramen delivery service with good design                                                  | css      |
 | Siteinspire           | https://www.siteinspire.com/               | Awesome designer sites with many unique ideas                                                       | tools    |
 | Moon Jump             | https://moonjump.app                       | Like a time machine for all the best sites around the web                                           | tools    |
+| This Is Colossal      | https://www.thisiscolossal.com/            | Just another art website but with god-tier css                                                      | css      |
+| PlasticList Report    | https://www.plasticlist.org/report         | A report on microplastics in common food. (fire css)                                                | css      |
+| Every Noise at Once   | https://everynoise.com/                    | A map of the musical genre space with links to audio samples                                        | music    |
+| 24HourHomepage        | https://24hourhomepage.com/                | Like TikTok for finding cool websites                                                               | tools    |
+| BLOGSCROLL            | https://blogscroll.com/                    | A curated directory of interesting blogs                                                            | blog     |
+| Tom MacWright         | https://macwright.com/                     | Personal blog with good photography                                                                 | blog     |
+| Ethan M. Clark        | https://www.ethanmclark.com/               | An AI researcher's personal blog                                                                    | blog     |
+| Nat Friedman          | https://nat.org/                           | Nat Friedman's blog                                                                                 | blog     |
+| 27bslash6             | https://27bslash6.com/                     | Humor and satirical blog with quirky content                                                        | blog     |
+| Woff2Base             | https://hellogreg.github.io/woff2base/     | Convert woff2 fonts to Base64 for CSS                                                               | tools    |
+| Sci-Hub               | https://sci-hub.se/                        | Free access to scientific papers and research articles                                              | tools    |
+| Listen Notes          | https://www.listennotes.com/               | Search engine for podcasts                                                                          | tools    |
+| Ritual Dust           | https://ritualdust.com/                    | Like the dark ages in a website.                                                                    | css      |
+| nullpt.rs             | https://www.nullpt.rs/                     | Software engineering blog with great visuals                                                        | blog     |
