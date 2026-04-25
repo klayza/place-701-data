@@ -10,7 +10,7 @@
 10. [ ] Start a successful business
 11. [ ] Swim with whales
 12. [ ] See the northern lights
-13. [ ] Snowboard in Hokkaido
+13. [x] Snowboard in Hokkaido
 14. [ ] Learn to dance
 15. [ ] Make a song
 16. [ ] Get a bachelor's degree
@@ -20,9 +20,12 @@
 20. [ ] Build a house
 21. [ ] Learn to surf
 22. [ ] See the pyramids
-23. [ ] Swim in the Dead Sea
-24. [ ] Cycle across Japan
-25. [ ] Survive on a remote island
-26. [ ] Swim in Dubai's deepest pool
-27. [ ] Canoe in the Amazon Rainforest
-28. [ ] Find love
+23. [ ] Find love
+24. [ ] Swim in the Dead Sea
+25. [ ] Cycle across Japan
+26. [ ] Survive on a remote island
+27. [ ] Swim in Dubai's deepest pool
+28. [ ] Canoe in the Amazon Rainforest
+29. [ ] Hike the Pacific Crest trail
+30. [ ] Go hang gliding
+31. [ ] Run a marathon
